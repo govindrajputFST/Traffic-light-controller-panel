@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(196, 217, 217);
+ }
+   .lightBox{
+      box-shadow: 2px 2px 5px;
+          height: 225px;
+          width: 75px;
+          margin-top: 60px;
+          border-radius: 10px;
+          padding: 5px;
+          margin-left: 50px;
+          background-color: rgb(104, 81, 67);
+      
+
+   }
+   .red{
+      border-radius: 50%;
+          border: 2px solid black;
+          height: 60px;
+          width: 60px;
+          margin: 5px;
+          text-align: center;
+          padding-top: 5px;
+   }
+   .pole{
+          height: 400px;
+          box-shadow: 1px 1px 3px 1px;
+          width: 10px;
+          margin-left: 88px;
+          background-color: rgb(42, 41, 41);
+   }
+   .pole2{
+          height: 100px;
+          box-shadow: 1px 1px 3px 1px;
+          width: 10px;
+          margin-left: 88px;
+          background-color: rgb(42, 41, 41);
+   }
+   #inlin{
+      display: inline;
+   }
+   #traffic-2{
+      position: absolute;
+      right: 90px;
+      top: 300px;
+   }
+   .road{
+      border: 5px solid black;
+   }
+   .ijh{
+      display:inline
+      
+   }
+   .ij{
+      margin-left:900px  ;
+   font-size: larger;
+   font-weight: 600;
+
+   }
+   .i{
+      padding-left: 50px;
+      font-size: larger;
+   font-weight: 600;
+   }
+   .colorred{
+      background-color: rgb(234, 210, 210);
+   }
+   .coloryellow{
+      background-color:rgb(225, 225, 170);
+   }
+   .colorgreen{
+      background-color:rgb(195, 224, 195)
+   }
+   .colorr{
+      background-color: red;
+
+   }
+   .colory{
+      background-color: yellow;
+   }
+   .colorg{
+      background-color: green;
+   }
+  
